@@ -1,4 +1,4 @@
-# Building a Networking Foundation TCP IP OSI Wireshark Packet Analysis
+# Building a Networking Foundation: TCP IP, OSI, Wireshark Packet Analysis
 
 ## Objective
 
