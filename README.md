@@ -178,8 +178,6 @@ IM26: DNS Header in DNS Packet
 
 ## Conclusion
 
-## Conclusion
-
 This lab successfully demonstrated the core concepts of TCP/IP networking, the OSI model, network communication, routing, address resolution, transport protocols, and packet analysis. Throughout the project, I used Windows and Linux systems within my VirtualBox homelab to examine network configurations, routing tables, ARP caches, network sockets, and active connections. I also used Wireshark to capture and analyze ARP, ICMP, DNS, TCP, UDP, and TLS traffic, allowing me to observe how network communication occurs across multiple layers.
 
 Overall, this project strengthened my understanding of MAC and IP addressing, ARP, default gateways, DNS resolution, TCP and UDP communication, ports, the TCP three-way handshake, network sockets, encapsulation, and encrypted network traffic. I also gained experience correlating operating system connection information with packet captures and documenting my homelab through a network diagram. The hands-on experience gained from this lab provides a strong networking foundation for future work in system administration, network security, security monitoring, incident investigation, and enterprise cybersecurity.
